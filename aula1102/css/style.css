@@ -1,0 +1,6 @@
+.form-control, .btn {
+    border-radius: 100px;
+}
+.parsley-errors-list{
+    color: red;
+}
